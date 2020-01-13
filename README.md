@@ -1,14 +1,14 @@
 # Teste para vaga de Desenvolvedor 
 
-- O que fazer?
+## O que fazer?
 Api de CRUD de usuários via REST, utilizando MongoDB, não necessita front.
 
-- Requisitos:
+## Requisitos:
 Laravel 5.8+
 MongoDB 3.8+
 Respeito aos padrões REST
 Documentação sobre a API
 
-- Diferenciais
+## Diferenciais
 Docker.io
 Testes unitários
